@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionPractise", "ExpressionPractise\ExpressionPractise.csproj", "{4F234BCD-ED82-478B-8BDB-85AAEEDA78F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionPractise", "ExpressionPractise\ExpressionPractise.csproj", "{4F234BCD-ED82-478B-8BDB-85AAEEDA78F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelAndGeneric", "DelAndGeneric\DelAndGeneric.csproj", "{0B2380B1-BB80-4788-A89C-1CB4841A57B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateMorePractise", "DelegateMorePractise\DelegateMorePractise.csproj", "{B2D5C8A9-A951-4024-993B-90548F29347D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4F234BCD-ED82-478B-8BDB-85AAEEDA78F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F234BCD-ED82-478B-8BDB-85AAEEDA78F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F234BCD-ED82-478B-8BDB-85AAEEDA78F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2380B1-BB80-4788-A89C-1CB4841A57B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2380B1-BB80-4788-A89C-1CB4841A57B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2380B1-BB80-4788-A89C-1CB4841A57B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2380B1-BB80-4788-A89C-1CB4841A57B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D5C8A9-A951-4024-993B-90548F29347D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D5C8A9-A951-4024-993B-90548F29347D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D5C8A9-A951-4024-993B-90548F29347D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D5C8A9-A951-4024-993B-90548F29347D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

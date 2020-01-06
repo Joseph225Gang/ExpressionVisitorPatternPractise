@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio\\ExpressionVisitorPatternPractise\\ExpressionPractise\\ExpressionPractise.csproj",
-      "projectName": "ExpressionPractise",
-      "projectPath": "D:\\Visual Studio\\ExpressionVisitorPatternPractise\\ExpressionPractise\\ExpressionPractise.csproj",
+      "projectUniqueName": "D:\\Visual Studio\\ExpressionVisitorPatternPractise\\DelegateMorePractise\\DelegateMorePractise.csproj",
+      "projectName": "DelegateMorePractise",
+      "projectPath": "D:\\Visual Studio\\ExpressionVisitorPatternPractise\\DelegateMorePractise\\DelegateMorePractise.csproj",
       "packagesPath": "C:\\Users\\6529\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio\\ExpressionVisitorPatternPractise\\ExpressionPractise\\obj\\",
+      "outputPath": "D:\\Visual Studio\\ExpressionVisitorPatternPractise\\DelegateMorePractise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\6529\\AppData\\Roaming\\NuGet\\NuGet.Config",
