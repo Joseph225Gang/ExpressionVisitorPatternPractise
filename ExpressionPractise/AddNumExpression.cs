@@ -10,7 +10,7 @@ namespace ExpressionPractise
 
         public void Accept(int x, int y)
         {
-            Expression<Func<int, int, int>> addNum = (num1, num2) => num1 * num2;
+            Expression<Func<int, int, int>> addNum = (num1, num2) => num1 + num2;
             var executeSimpleAdd = addNum.Compile();
             Console.WriteLine(executeSimpleAdd(x, y));
         }

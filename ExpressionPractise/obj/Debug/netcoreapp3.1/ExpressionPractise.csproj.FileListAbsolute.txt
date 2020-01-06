@@ -9,3 +9,14 @@ D:\Visual Studio\ExpressionPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\E
 D:\Visual Studio\ExpressionPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\ExpressionPractise.AssemblyInfo.cs
 D:\Visual Studio\ExpressionPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\ExpressionPractise.dll
 D:\Visual Studio\ExpressionPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\ExpressionPractise.pdb
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\bin\Debug\netcoreapp3.1\ExpressionPractise.exe
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\bin\Debug\netcoreapp3.1\ExpressionPractise.deps.json
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\bin\Debug\netcoreapp3.1\ExpressionPractise.runtimeconfig.json
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\bin\Debug\netcoreapp3.1\ExpressionPractise.runtimeconfig.dev.json
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\bin\Debug\netcoreapp3.1\ExpressionPractise.dll
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\bin\Debug\netcoreapp3.1\ExpressionPractise.pdb
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\ExpressionPractise.csprojAssemblyReference.cache
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\ExpressionPractise.AssemblyInfoInputs.cache
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\ExpressionPractise.AssemblyInfo.cs
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\ExpressionPractise.dll
+D:\Visual Studio\ExpressionVisitorPatternPractise\ExpressionPractise\obj\Debug\netcoreapp3.1\ExpressionPractise.pdb
